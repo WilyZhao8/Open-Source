@@ -62,3 +62,58 @@ We also provide some related works.
 | ![Star](https://img.shields.io/github/stars/YoojLee/Uniformaly.svg?style=social&label=Star) <br> [**UniFormaly: Towards Task-Agnostic Unified Framework for Visual Anomaly Detection**](https://arxiv.org/abs/2307.12540) <br> | arxiv | 2023 | [Github](https://github.com/YoojLee/Uniformaly) | Multi-class unified |
 <!-- | ![Star](https://img.shields.io/github/stars/mala-lab/AHL.svg?style=social&label=Star) <br> [**Anomaly Heterogeneity Learning for Open-set Supervised Anomaly Detection**](https://arxiv.org/abs/2310.12790) <br> | arxiv | 2023 | [Github](https://github.com/mala-lab/AHL) | Few abnormal samples | -->
 
+
+
+## BibTex Citation
+
+If you find this paper and repository useful, please cite our paper☺️.
+
+```
+@ARTICLE{10195261,
+  author={Zhao, Wenyi and Yang, Lu and Zhang, Weidong and Tian, Yongqin and Jia, Wenhe and Li, Wei and Yang, Mu and Pan, Xipeng and Yang, Huihua},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Learning What and Where to Learn: A New Perspective on Self-supervised Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+}
+
+@article{zhao2022embedding,
+  title={Embedding Global Contrastive and Local Location in Self-Supervised Learning},
+  author={Zhao, Wenyi and Li, Chongyi and Zhang, Weidong and Yang, Lu and Zhuang, Peixian and Li, Lingqiao and Fan, Kefeng and Yang, Huihua},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2022},
+  publisher={IEEE}
+}
+
+@article{zhao2021s2,
+  title={S2-aware network for visual recognition},
+  author={Zhao, Wenyi and Yang, Huihua and Pan, Xipeng and Li, Lingqiao},
+  journal={Signal Processing: Image Communication},
+  volume={99},
+  pages={116458},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{zhao2022lessl,
+  title={LESSL: Can LEGO sampling and collaborative optimization contribute to self-supervised learning?},
+  author={Zhao, Wenyi and Zhang, Weidong and Pan, Xipeng and Zhuang, Peixian and Xie, Xiwang and Li, Lingqiao and Yang, Huihua},
+  journal={Information Sciences},
+  volume={615},
+  pages={475--490},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{zhao2023global,
+  title={Global-and-Local sampling for efficient hybrid task self-supervised learning},
+  author={Zhao, Wenyi and Xu, Yibo and Li, Lingqiao and Yang, Huihua},
+  journal={Knowledge-Based Systems},
+  volume={268},
+  pages={110479},
+  year={2023},
+  publisher={Elsevier}
+}
+```
