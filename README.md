@@ -117,3 +117,7 @@ If you find this paper and repository useful, please cite our paper☺️.
   publisher={Elsevier}
 }
 ```
+
+## Acknowledgements
+Thanks to https://github.com/M-3LAB/awesome-industrial-anomaly-detection. 
+Thanks to https://github.com/facebookresearch/moco-v3.
