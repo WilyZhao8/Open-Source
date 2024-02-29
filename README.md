@@ -29,7 +29,7 @@ My Open-Source Code contains some modules and pretrained weithts of my work.
 
 
 # Others
-We also provide some related works.
+We also provide well-known works from other teams
 
 |  Title  |   Venue  |   Date   |   Code   |   topic   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
