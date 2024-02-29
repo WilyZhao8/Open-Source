@@ -18,6 +18,13 @@ In order to prevent commercial applications, we only put the corresponding scree
 ## Tire character detection datasets
 ![image](https://github.com/WilyZhao8/Open-Source/assets/32591619/6158130b-824a-435f-af04-2b69991df22f)
 
+
+## Wafer microscopic image dataset, suitable for experiments such as super-resolution and image fusion
+![image](https://github.com/WilyZhao8/Open-Source/assets/32591619/fc2d10df-baec-4845-9f1b-d45b41377270)
+![image](https://github.com/WilyZhao8/Open-Source/assets/32591619/c165f780-c418-4d3b-8f16-9d34b5686d81)
+![image](https://github.com/WilyZhao8/Open-Source/assets/32591619/e133fd89-2098-45ed-897b-91bf3faddf5a)
+
+
 # Open-Source
 My Open-Source Code contains some modules and pretrained weithts of my work.
 
